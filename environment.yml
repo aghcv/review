@@ -1,0 +1,9 @@
+name: pubmed-search-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython
+  - pandas
+  - requests
+  - jupyterlab   # optional, if you want to run notebooks
