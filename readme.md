@@ -5,15 +5,15 @@ This repo contains a reproducible environment and Python script to evaluate
 the noisiness of PubMed search terms for systematic review protocols.
 
 ## Repository Structure
-
-/your-repo
-  ├── environment.yml
-  ├── requirements.txt
-  ├── pubmed_noise_index.py
-  ├── keywords.txt         # optional
-  ├── filters.txt          # optional
-  ├── README.md
-
+```
+/pubmed-noise-index
+├── environment.yml # Conda environment definition
+├── requirements.txt # pip fallback
+├── pubmed_noise_index.py # main script
+├── keywords.txt # optional keyword list
+├── filters.txt # optional filters
+└── README.md # this file
+```
 
 ## Setup with Conda
 ```bash
@@ -21,5 +21,5 @@ git clone https://github.com/yourname/pubmed-noise-index.git
 cd pubmed-noise-index
 conda env create -f environment.yml
 conda activate pubmed-search-env
-
+```
 
