@@ -1,0 +1,5 @@
+PubMed Noise Index Refinement Report
+-----------------------------------
+Original Total Hits: 8957
+Refined Total Hits: 5999
+Efficiency Gain %: 33.0

@@ -17,8 +17,7 @@ the noisiness of PubMed search terms for systematic review protocols.
 
 ## Setup with Conda
 ```bash
-git clone https://github.com/yourname/pubmed-noise-index.git
-cd pubmed-noise-index
+git clone https://github.com/aghcv/review.git
 conda env create -f environment.yml
 conda activate pubmed-search-env
 ```

@@ -1,0 +1,27 @@
+Keyword,Base Hits,With Health Filter,Noise Index %,Decision
+"""virtual patient*""[tiab]",2090,2090,0.0,Kept broad
+"""health twin*""[tiab]",41,41,0.0,Kept broad
+"""medical twin*""[tiab]",2,2,0.0,Kept broad
+"""patient avatar*""[tiab]",75,75,0.0,Kept broad
+"""patient-specific computational model*""[tiab]",213,213,0.0,Kept broad
+"""virtual sibling*""[tiab]",0,0,0.0,Kept broad
+"""synthetic patient*""[tiab]",140,140,0.0,Kept broad
+"""in silico patient*""[tiab]",50,50,0.0,Kept broad
+"""digital patient*""[tiab]",454,454,0.0,Kept broad
+"""biomimetic twin*""[tiab]",0,0,0.0,Kept broad
+"""virtual twinning""[tiab]",1,1,0.0,Kept broad
+"""personalized computational model*""[tiab]",67,58,13.4,Refined
+"""virtual twin""[tiab]",42,30,28.6,Refined
+"""digital replicas""[tiab]",38,26,31.6,Refined
+"""virtual twins""[tiab]",57,39,31.6,Refined
+"""virtual physiological human*""[tiab]",78,53,32.1,Refined
+"""digital replica""[tiab]",41,26,36.6,Refined
+"""digital twins""[tiab]",1190,712,40.2,Refined
+"""virtual human*""[tiab]",503,300,40.4,Refined
+"""digital avatar*""[tiab]",54,30,44.4,Refined
+"""digital twinning""[tiab]",55,28,49.1,Refined
+"""digital twin""[tiab]",1674,824,50.8,Refined
+"""digital replication""[tiab]",9,4,55.6,Refined
+"""virtual avatar*""[tiab]",177,73,58.8,Refined
+"""surrogate model*""[tiab]",1905,730,61.7,Refined
+"""organ twin*""[tiab]",1,0,100.0,Refined
